@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>/directive</loc>
+    </url>
+            <url>
+            <loc>/directive/posts/2014/12/29/welcome-to-spress/</loc>
+            <lastmod>2014-12-29T18:43:53+0000</lastmod>
+            <changefreq>monthly</changefreq>
+            <priority>0.5</priority>
+        </url>
+            <url>
+            <loc>/directive/posts/2014/12/23/sample-post/</loc>
+            <lastmod>2014-12-23T18:43:52+0000</lastmod>
+            <changefreq>monthly</changefreq>
+            <priority>0.5</priority>
+        </url>
+    </urlset>
