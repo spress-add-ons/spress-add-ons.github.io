@@ -19,7 +19,7 @@ in the <code>_posts</code> directory that follows the convention <code>YYYY-MM-D
 </ul>
 ]]></description>
                 <link>/directive/posts/2014/12/29/welcome-to-spress/</link>
-                <pubDate>Mon, 29 Dec 2014 18:43:53 +0000</pubDate>
+                <pubDate>Mon, 29 Dec 2014 19:17:09 +0000</pubDate>
                 <guid>/directive/posts/2014/12/29/welcome-to-spress/</guid>
             </item>
                     <item>
@@ -115,7 +115,7 @@ in the <code>_posts</code> directory that follows the convention <code>YYYY-MM-D
 <input type="reset" value="Reset" class="alt" /></p>
 ]]></description>
                 <link>/directive/posts/2014/12/23/sample-post/</link>
-                <pubDate>Tue, 23 Dec 2014 18:43:52 +0000</pubDate>
+                <pubDate>Tue, 23 Dec 2014 19:17:09 +0000</pubDate>
                 <guid>/directive/posts/2014/12/23/sample-post/</guid>
             </item>
             </channel>
