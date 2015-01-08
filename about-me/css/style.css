@@ -100,7 +100,7 @@
 		-ms-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);
 		/* Set your background with this */
-		background: #000 url("/directive/css/images/photo.jpg") bottom left;
+		background: #000 url("/about-me/css/images/photo.jpg") bottom left;
 		background-repeat: repeat;
 		height: 100%;
 		left: 0;
